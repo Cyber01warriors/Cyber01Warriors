@@ -7,7 +7,7 @@
 - ⭕School = I am curently go Galahitiyawa Central College
 - ⭕Country = Sri Lanka,Gampaha
 - ⭕I am curently learning Python
-- ⭕Contact me =<img src=<a hef>"https://img.shields.io/badge 𝗖𝗬𝗕𝗘𝗥 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦丨【𝗙 𝗛 𝗕】-blue.svg?logo=telegram">(https://t.me/Cyber01_Warriors)</a></a>
+- ⭕Contact me =[𝗖𝗬𝗕𝗘𝗥 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦丨【𝗙 𝗛 𝗕】](https://t.me/Cyber01_Warriors)<img src="https://img.shields.io/badge/𝗖𝗬𝗕𝗘𝗥 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦丨【𝗙 𝗛 𝗕】-blue.svg?logo=telegram"></a>
 
 ## Contact me On Telegram
 
