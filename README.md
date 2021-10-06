@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66FF00&lines=--Hi+I'm+𝗖𝗬𝗕𝗘𝗥+𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦+;--Curently+Learning+Python+language;--A+Student+Yet+;--I+am+16+years+old+;--Want+to+be+a+Software+Engineer)](https://git.io/typing-svg)
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=-%3E+Deploy+some+bots;-%3E+Github+student;-%3E+Codes+learner;-%3EYoutuber;-%3E+AL+student;-%3E+Html+user)](https://git.io/typing-svg)
 - ⭕Name = 𝗖𝗬𝗕𝗘𝗥 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦丨【𝗙 𝗛 𝗕】
 - ⭕Age = 16 Years old
 - ⭕School = I am curently go Galahitiyawa Central College
