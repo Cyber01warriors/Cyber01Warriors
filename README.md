@@ -24,6 +24,10 @@
 ## 🎵 Now playing
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=viharsenindu">
+    <img width="40%"align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viharasenindu&show_icons=true&theme=midnight-purple" />
+  </a>
+
 ## My Github Activity Graph
 
 [![Cyber's github activity graph](https://activity-graph.herokuapp.com/graph?username=Cyber01warriors&theme=dracula)](https://github.com/Cyber01warriors/github-readme-activity-graph)
