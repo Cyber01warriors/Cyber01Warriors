@@ -14,7 +14,7 @@
 ## Repo Stats
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Cyber01Warriors&repo=hellboybot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Cyber01Warriors&repo=CyberVCBot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Cyber01Warriors&repo=covid-update-bot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Cyber01Warriors&repo=cybersongbot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Cyber01Warriors&repo=Inline-media-search-Bot&theme=dark)
 
 ## Contact me On Telegram
