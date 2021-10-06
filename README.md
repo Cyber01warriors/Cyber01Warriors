@@ -11,7 +11,7 @@
 
 ## Contact me On Telegram
 
-## <img src="https://img.shields.io/badge/Telegram-blue.svg?logo=telegram"></a> [𝗖𝗬𝗕𝗘𝗥 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦丨【𝗙 𝗛 𝗕】](https://t.me/Cyber01_Warriors)
+## <a href="https://t.me/Cyber01_Warriors"><img src="https://img.shields.io/badge/𝗖𝗬𝗕𝗘𝗥 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦-blue.svg?logo=telegram"></a>
 
 ## My Github States
 
