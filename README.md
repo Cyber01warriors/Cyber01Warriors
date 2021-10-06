@@ -1,6 +1,6 @@
 ### Hi there I am Hashan👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66FF00&lines=--Hi+I'm+𝗖𝗬𝗕𝗘𝗥 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦丨【𝗙 𝗛 𝗕】+;--Curently+Learning+Python+language;--A+Student+Yet+;--I+am+16+years+old)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66FF00&lines=--Hi+I'm+Hashan+;--Curently+Learning+Python+language;--A+Student+Yet+;--I+am+16+years+old)](https://git.io/typing-svg)
 
 - ⭕Name = 𝗖𝗬𝗕𝗘𝗥 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦丨【𝗙 𝗛 𝗕】
 - ⭕Age = 16 Years old
