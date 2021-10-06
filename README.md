@@ -17,6 +17,12 @@
 
 ![Cyber's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyber01warriors&show_icons=true&theme=highcontrast)
 
+## Used Languages
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=viharsenindu">
+    <img width="40%"alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viharasenindu&show_icons=true&theme=midnight-purple" />
+  </a>
+
 ## My Streak Stats
 
 [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Cyber01warriors&theme=highcontrast)](https://github.com/Cyber01warriors/github-readme-streak-stats)
