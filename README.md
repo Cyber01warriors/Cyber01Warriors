@@ -2,12 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66FF00&lines=--Hi+I'm+𝗖𝗬𝗕𝗘𝗥+𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦+;--Curently+Learning+Python+language;--A+Student+Yet+;--I+am+16+years+old+;--Want+to+be+a+Software+Engineer)](https://git.io/typing-svg)
 
-## Used Languages
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=viharsenindu">
-    <img width="40%"alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viharasenindu&show_icons=true&theme=midnight-purple" />
-  </a>
-
 - ⭕Name = 𝗖𝗬𝗕𝗘𝗥 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦丨【𝗙 𝗛 𝗕】
 - ⭕Age = 16 Years old
 - ⭕School = I am curently go Galahitiyawa Central College
