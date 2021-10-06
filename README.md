@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there I am Hashan👋
 
-<!--
-**Cyber01warriors/Cyber01Warriors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66FF00&lines=--Hi+I'm+𝗖𝗬𝗕𝗘𝗥 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦丨【𝗙 𝗛 𝗕】+;--Curently+Learning+Python+language;--A+Student+Yet+;--I+am+16+years+old)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+- ⭕Name = 𝗖𝗬𝗕𝗘𝗥 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦丨【𝗙 𝗛 𝗕】
+- ⭕Age = 16 Years old
+- ⭕School = I am curently go Galahitiyawa Central College
+- ⭕Country = Sri Lanka,Gampaha
+- ⭕I am curently learning Python
+- ⭕Contact me = [𝗖𝗬𝗕𝗘𝗥 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦丨【𝗙 𝗛 𝗕】](https://t.me/Cyber01_Warriors)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me On Telegram
+
+## Telegram=[𝗖𝗬𝗕𝗘𝗥 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦丨【𝗙 𝗛 𝗕】](https://t.me/Cyber01_Warriors)
+
+## My Github States
+
+![Cyber's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyber01warriors&show_icons=true&theme=highcontrast)
+
+## My Streak Stats
+
+[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Cyber01warriors&theme=highcontrast)](https://github.com/Cyber01warriors/github-readme-streak-stats)
+
+## 🎵 Now playing
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
+
+## My Github Activity Graph
+
+[![Cyber's github activity graph](https://activity-graph.herokuapp.com/graph?username=Cyber01warriors&theme=dracula)](https://github.com/Cyber01warriors/github-readme-activity-graph)
