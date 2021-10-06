@@ -8,7 +8,9 @@
 - ⭕Country = Sri Lanka,Gampaha
 - ⭕I am curently learning Python
 - ⭕Telegram = <a href="https://t.me/Cyber01_Warriors"><img src="https://img.shields.io/badge/𝗖𝗬𝗕𝗘𝗥 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦丨【𝗙 𝗛 𝗕】-blue.svg?logo=telegram"></a>
-
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=viharsenindu">
+    <img width="40%"align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viharasenindu&show_icons=true&theme=midnight-purple" />
+  </a>
 ## Contact me On Telegram
 
 ## Telegram = <a href="https://t.me/Cyber01_Warriors"><img src="https://img.shields.io/badge/𝗖𝗬𝗕𝗘𝗥 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦丨【𝗙 𝗛 𝗕】-blue.svg?logo=telegram"></a>
@@ -28,6 +30,4 @@
 
 [![Cyber's github activity graph](https://activity-graph.herokuapp.com/graph?username=Cyber01warriors&theme=dracula)](https://github.com/Cyber01warriors/github-readme-activity-graph)
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=viharsenindu">
-    <img width="40%"align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viharasenindu&show_icons=true&theme=midnight-purple" />
-  </a>
+
