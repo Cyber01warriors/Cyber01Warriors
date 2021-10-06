@@ -28,6 +28,7 @@
 [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Cyber01warriors&theme=highcontrast)](https://github.com/Cyber01warriors/github-readme-streak-stats)
 
 ## 🎵 Now playing
+
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
 
 ## My Github Activity Graph
