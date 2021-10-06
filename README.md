@@ -33,6 +33,11 @@
 
 [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Cyber01warriors&theme=highcontrast)](https://github.com/Cyber01warriors/github-readme-streak-stats)
 
+ <h2><details>
+  <summary><b>My github stats</b></summary>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Cyber01Warriors" alt="Cyber01Warriors" /></a> </p>
+ </details></h2>
+
 ## 🎵 Now playing
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
