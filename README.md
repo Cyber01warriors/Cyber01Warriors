@@ -17,6 +17,10 @@
 
 ![Cyber's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyber01warriors&show_icons=true&theme=highcontrast)
 
+## States
+
+![trophy](https://github-profile-trophy.vercel.app/?username=TheHamkerCat&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
+
 ## Used Languages
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=viharsenindu">
