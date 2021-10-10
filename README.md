@@ -19,6 +19,7 @@
 ## Contact me On Telegram
 
 ## Telegram = <a href="https://t.me/Cyber01_Warriors"><img src="https://img.shields.io/badge/𝗖𝗬𝗕𝗘𝗥 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦丨【𝗙 𝗛 𝗕】-blue.svg?logo=telegram"></a>
+Telegram:  <a href="https://t.me/Cyber01_Warriors"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="50" width="50" /></a> &nbsp;&nbsp;
 
 ## My Github States
 
