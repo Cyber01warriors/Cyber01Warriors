@@ -16,11 +16,10 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Cyber01Warriors&repo=Whisper-Bot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Cyber01Warriors&repo=cybersongbot&theme=dark)
 
-## Contact me On Telegram
+## Contact me On Telegram and You Tube
 
-## Telegram = <a href="https://t.me/Cyber01_Warriors"><img src="https://img.shields.io/badge/𝗖𝗬𝗕𝗘𝗥 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦丨【𝗙 𝗛 𝗕】-blue.svg?logo=telegram"></a>
-## Telegram:  <a href="https://t.me/Cyber01_Warriors"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="50" width="50" /></a> &nbsp;&nbsp;
-## You Tube:  <a href="https://www.youtube.com/channel/UCoXIdWk9L-4LEXe4Owe75dw"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
+## Telegram :  <a href="https://t.me/Cyber01_Warriors"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="50" width="50" /></a> &nbsp;&nbsp;
+## You Tube :  <a href="https://www.youtube.com/channel/UCoXIdWk9L-4LEXe4Owe75dw"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
 
 ## My Github States
 
