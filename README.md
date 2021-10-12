@@ -5,7 +5,7 @@
 |<a href="https://t.me/ViharaSenindu/"><img src="https://avatars.githubusercontent.com/u/89768855?v=4" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------:|
 |       **[Portfolio](https://cyber01warriors.github.io)**                                                                                |
-| <a href="https://github.com/Cyber01warriors"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a 
+| <a href="https://github.com/Cyber01warriors"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a>
 
 <img align="senter" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:50%;">
 
