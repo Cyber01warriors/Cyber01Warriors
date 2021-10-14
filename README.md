@@ -2,6 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66FF00&lines=--Hi+I'm+𝗖𝗬𝗕𝗘𝗥+𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦+丨+【𝗙+𝗛+𝗕】+;--Curently+Learning+Python+language;--A+Student+Yet+;--I+am+16+years+old+;--Want+to+be+a+Software+Engineer)](https://git.io/typing-svg)
 
+|<a href="https://t.me/Cyber01_Warriors/"><img src="https://avatars.githubusercontent.com/u/89768855?v=4" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------:|
+|       *[Portfolio](https://cyber01warriors.github.io)*                                                                                |
+| <a href="https://github.com/Cyber01warriors"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a>
+
 <img align="senter" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:50%;">
 
 - ⭕Name = 𝗖𝗬𝗕𝗘𝗥 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦丨【𝗙 𝗛 𝗕】
