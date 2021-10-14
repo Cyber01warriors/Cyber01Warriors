@@ -1,6 +1,6 @@
 ### Hi there I am 𝗖𝗬𝗕𝗘𝗥 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦丨【𝗙 𝗛 𝗕】👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#151FF7=--Hi+I'm+𝗖𝗬𝗕𝗘𝗥+𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦+丨+【𝗙+𝗛+𝗕】+;--Curently+Learning+Python+language;--A+Student+Yet+;--I+am+16+years+old+;--Want+to+be+a+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%234CF727&lines=--Hi+I'm+𝗖𝗬𝗕𝗘𝗥+𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦+丨+【𝗙+𝗛+𝗕】+;--Curently+Learning+Python+language;--A+Student+Yet+;--I+am+16+years+old+;--Want+to+be+a+Software+Engineer)](https://git.io/typing-svg)
 
 |<a href="https://t.me/Cyber01_Warriors/"><img src="https://avatars.githubusercontent.com/u/89768855?v=4" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------:|
