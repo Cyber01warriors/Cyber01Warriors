@@ -9,7 +9,7 @@
 
 <img align="senter" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:50%;">
 
-- ⭕Name = 𝗖𝗬𝗕𝗘𝗥 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦丨【𝗙 𝗛 𝗕】
+- ⭕Name = 𝗖𝗬𝗕𝗘𝗥 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦
 - ⭕Age = 16 Years old
 - ⭕School = I am curently go Galahitiyawa Central College
 - ⭕Country = Sri Lanka,Gampaha
