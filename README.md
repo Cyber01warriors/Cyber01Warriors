@@ -36,7 +36,7 @@
 
 ## Used Languages
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=viharsenindu">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber01warriors">
     <img width="40%"alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viharasenindu&show_icons=true&theme=midnight-purple" />
   </a>
 
