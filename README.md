@@ -32,12 +32,12 @@
 
 ## States
 
-![trophy](https://github-profile-trophy.vercel.app/?username=TheHamkerCat&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
+![trophy](https://github-profile-trophy.vercel.app/?username=Cyber01warriors&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
 
 ## Used Languages
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber01warriors">
-    <img width="40%"alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viharasenindu&show_icons=true&theme=midnight-purple" />
+    <img width="40%"alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber01warriors&show_icons=true&theme=midnight-purple" />
   </a>
 
 ## My Streak Stats
