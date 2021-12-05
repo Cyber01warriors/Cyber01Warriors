@@ -59,6 +59,6 @@
 
 ## Github Profile views
 
-- [![Profile views](https://gpvc.arturio.dev/Cyber01warriors)](https://github.com/DarkSkull93)
-- [![GitHub followers](https://img.shields.io/github/followers/Cyber01Warriors.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/DarkSkull93?tab=followers)
+- [![Profile views](https://gpvc.arturio.dev/Cyber01warriors)](https://github.com/Cyber01warriors)
+- [![GitHub followers](https://img.shields.io/github/followers/Cyber01Warriors.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Cyber01Warriors?tab=followers)
 - [![visitors](https://visitor-badge.glitch.me/badge?page_id=DarkSkull93)](https://github.com/Cyber01Warriors)
