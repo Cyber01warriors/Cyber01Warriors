@@ -66,13 +66,4 @@
 ## 🏆 GitHub Activity
 
 ![Metrics](https://metrics.lecoq.io/Cyber01warriors?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang)
-<p align="center">
-<a href="https://github.com/smir45">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Cyber01warriors_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cyber01warriors=compact&exclude_lang=java+r&theme=vue-light" />
-</a>
-</p>
 
-
-
-<div align="center">
