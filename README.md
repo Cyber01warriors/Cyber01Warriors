@@ -15,6 +15,7 @@
 - ⭕Country = Sri Lanka,Gampaha
 - ⭕I am curently learning Python
 - ⭕Telegram = <a href="https://t.me/Cyber01_Warriors"><img src="https://img.shields.io/badge/𝗖𝗬𝗕𝗘𝗥 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦-blue.svg?logo=telegram"></a>
+-<b>⭕TSkills :</b> <code>Python</code> | <code>HTML</code> | <code>CSS</code> 
 
 ## Repo Stats
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Cyber01Warriors&repo=hellboybot&theme=dark)
