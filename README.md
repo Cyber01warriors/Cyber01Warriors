@@ -14,7 +14,7 @@
 - ⭕School = I am curently go Galahitiyawa Central College
 - ⭕Country = Sri Lanka,Gampaha
 - ⭕I am curently learning Python
-- ⭕Telegram = <a href="https://t.me/Cyber01_Warriors"><img src="https://img.shields.io/badge/𝗖𝗬𝗕𝗘𝗥 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦-blue.svg?logo=telegram"></a>
+- ⭕Telegram = <a href="https://t.me/Cyber01_Warriors"> target="_blank"><img src="https://img.shields.io/badge/𝗖𝗬𝗕𝗘𝗥 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦-blue.svg?logo=telegram"></a>
 - ⭕Skills = </b> <code>Python</code> | <code>HTML</code> | <code>CSS</code> 
 
 ## Repo Stats
